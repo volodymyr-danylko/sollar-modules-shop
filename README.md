@@ -1,5 +1,11 @@
 This is a test project written using [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) + [Styled Components](https://styled-components.com/) + [RTK](https://redux-toolkit.js.org/) + [eslint](https://eslint.org/) boilerplate built with [Vite](https://vitejs.dev).
 
+## Project name: Sollar App
+
+## Project description
+
+Simple application that emulate Sollar Modules online shop
+
 ## Getting started
 
 1. Clone the repository.
@@ -14,32 +20,25 @@ This is a test project written using [React](https://reactjs.org) + [TypeScript]
    cd sollar-modules-shop
    ```
 
-3. Make it your own repository
-
-   ```bash
-   rm -rf .git
-   git init
-   ```
-
-4. Install dependencies.
+3. Install dependencies.
 
    ```bash
    npm i
    ```
 
-5. Start the development server.
+4. Start the development server.
 
    ```bash
    npm run dev
    ```
 
-6. Build for production.
+5. Build for production.
 
    ```bash
    npm run build
    ```
 
-7. Test your production build.
+6. Test your production build.
 
    ```bash
    npm run serve
