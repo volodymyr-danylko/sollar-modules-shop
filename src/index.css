@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue,
+    helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+  font-style: normal;
+  line-height: 1.2;
+  padding: 0;
+  margin: 0;
+}
+
+ul,
+ol,
+dl {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
